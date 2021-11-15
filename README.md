@@ -1,4 +1,6 @@
-![Twitter Follow](https://img.shields.io/twitter/follow/avertixx?label=Abonnez%20vous%20%40avertixx&style=social) ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCNLkghT39DNGXEg-JFszg7w?label=Total%20de%20vue%20de%20ma%20cha%C3%AEne&style=social)
+![banniere](https://user-images.githubusercontent.com/94352202/141757480-2eb7cc23-8840-47c5-8ae6-0550a301dc99.gif)
+---
+Bienvenue sur mon profil Github
 ---
 Mes Languages
 
@@ -7,3 +9,4 @@ Mes Languages
 Mes logiciels de codage
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="C Logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" alt="C Logo" width="50" height="50" />
+---
